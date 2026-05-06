@@ -1,0 +1,16 @@
+# Large Data Files - Never upload
+data/*.csv
+data/*.zip
+*.csv
+
+# Environment
+venv/
+__pycache__/
+*.pyc
+
+# MLflow
+mlruns/
+models/
+
+# Others
+.DS_Store
