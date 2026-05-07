@@ -61,11 +61,11 @@ home-credit-default-risk-mlops/
 
 ## Dataset
 
-Dataset used:
-Home Credit Default Risk Dataset
-
-Main file used:
-- `application_train.csv`
+**Dataset used**: Home Credit Default Risk Dataset
+**Rows**: 307,511
+**Columns**: 122
+**Problem**: Binary Classification (Highly Imbalanced)
+**Source**: Kaggle Competition
 
 Note:
 Dataset files are not pushed to GitHub (added in .gitignore)
